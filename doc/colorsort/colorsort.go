@@ -13,7 +13,7 @@ import (
 	"os"
 	"sort"
 
-	"github.com/lucasb-eyer/go-colorful"
+	"github.com/0magnet/go-colorful"
 )
 
 // randomColors produces a slice of random colors.

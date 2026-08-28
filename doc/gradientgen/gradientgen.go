@@ -7,7 +7,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/lucasb-eyer/go-colorful"
+	"github.com/0magnet/go-colorful"
 )
 
 // This table contains the "keypoints" of the colorgradient you want to generate.

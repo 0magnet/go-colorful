@@ -1,7 +1,7 @@
 package main
 
 import "fmt"
-import "github.com/lucasb-eyer/go-colorful"
+import "github.com/0magnet/go-colorful"
 import "image"
 import "image/draw"
 import "image/png"

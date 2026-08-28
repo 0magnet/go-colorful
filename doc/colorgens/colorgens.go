@@ -9,7 +9,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/lucasb-eyer/go-colorful"
+	"github.com/0magnet/go-colorful"
 )
 
 func main() {
